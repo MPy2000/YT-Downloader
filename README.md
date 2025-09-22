@@ -1,5 +1,5 @@
 # Video-Audio-Fetch
-Fast, convenient and automated downloader that allows both audio and video. For Windows/CLI
+Fast, convenient and automated downloader that allows both audio and video. For Windows(CLI)
 
 
 ## Quickstart
