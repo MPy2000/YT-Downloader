@@ -7,7 +7,7 @@ Execute ffmpeg first and then the downloader.exe .Everything should be set up au
 It's also possible to simply install ffmpeg and then copy and execute the script beneath in VS Code.  
 
 ## DISCLAIMER!
-This is purely an educational student project. It's recommended to only use it privately. This script is for downloading videos you own or those that are freely licensed. Respect YouTube’s Terms of Service and copyright laws.
+This is purely an educational student project. It's recommended for private use only. This script is for downloading videos you own or those that are freely licensed. Respect YouTube’s Terms of Service and copyright laws.
 ⚠️ Windows may warn about "Unknown Publisher" because this app isn’t code-signed. This is expected for an open source project like this. The code is open source and available in this repository, so you can review
 or build it yourself if you prefer. 
 
